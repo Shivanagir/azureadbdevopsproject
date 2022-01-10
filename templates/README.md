@@ -1,0 +1,1 @@
+# This project folder has DevOps and ADB related template files (ARM Templates)
